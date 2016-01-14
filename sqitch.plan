@@ -2,3 +2,4 @@
 %project=flipr
 %uri=https://github.com/ivanelson/sqitch_stage1.git
 
+appschema 2016-01-14T22:22:44Z Ivanelson Nunes <ivanelsonnunes@gmail.com> # Add schema for all projects
