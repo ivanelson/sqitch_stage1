@@ -4,3 +4,5 @@
 
 appschema 2016-01-14T22:22:44Z Ivanelson Nunes <ivanelsonnunes@gmail.com> # Add schema for all projects
 users [appschema] 2016-01-14T22:37:34Z Ivanelson Nunes <ivanelsonnunes@gmail.com> # Creates table to track our users
+insert_user [users appschema] 2016-01-14T22:42:55Z Ivanelson Nunes <ivanelsonnunes@gmail.com> # Creates a function to insert a user.
+change_pass [users appschema] 2016-01-14T22:44:37Z Ivanelson Nunes <ivanelsonnunes@gmail.com> # Creates a function to change a user password.
