@@ -7,3 +7,5 @@ users [appschema] 2016-01-14T22:37:34Z Ivanelson Nunes <ivanelsonnunes@gmail.com
 insert_user [users appschema] 2016-01-14T22:42:55Z Ivanelson Nunes <ivanelsonnunes@gmail.com> # Creates a function to insert a user.
 change_pass [users appschema] 2016-01-14T22:44:37Z Ivanelson Nunes <ivanelsonnunes@gmail.com> # Creates a function to change a user password.
 @v1.0.0-dev1 2016-01-14T23:29:25Z Ivanelson Nunes <ivanelsonnunes@gmail.com> # Tag v1.0.0-dev1.
+
+flips [appschema users] 2016-01-14T23:39:26Z Ivanelson Nunes <ivanelsonnunes@gmail.com> # Adds table for storing flips.
